@@ -1,1 +1,1 @@
-This is test and updating a branch
+ - this from masterThis is test and updating a branch
